@@ -41,10 +41,6 @@ nav {
   grid-column: 2/3;
   font-size: 24px;
 }
-.hamburger {
-  height: 24px;
-  justify-self: end;
-}
 section {
   display: flex;
   height: 80vh;
@@ -66,7 +62,7 @@ section {
   z-index: 1;
   font-family: "Times New Roman", Times, serif;
 }
-.dream-car {
+.hero-image {
   width: 100%;
   height: 100%;
   object-fit: cover;
